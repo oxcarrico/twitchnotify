@@ -12,7 +12,7 @@ chrome_options.add_argument("--window-size=1200,800")  # Establece el tamaño de
 webdriver_path = 'D:/Deberes/General/proyectos.py/chromedriver.exe'  # Ruta a chromedriver
 
 # El nombre del streamer que quieres monitorear
-streamer = 'cockxcar'
+streamer = 'streamerName'
 url = f'https://www.twitch.tv/{streamer}'
 
 def is_stream_live(streamer_url):
