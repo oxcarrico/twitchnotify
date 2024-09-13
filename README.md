@@ -1,0 +1,2 @@
+# twitchnotify
+NotificadorDeDirectoTwitch
